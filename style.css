@@ -1645,10 +1645,15 @@ input:required {
     border: none !important;
     border-radius: 10px; }
 
-#nav-brand
+/* Estilos generales para el logo */
+.logo-header {
+  /* Propiedades de estilo generales para el logo */
+}
+
+/* Estilos para computadoras de escritorio */
 @media (min-width: 768px) {
-      .nav-brand {
-        max-width: 138px;
-      }
-    }
+  .logo-header {
+    max-width: 138px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
