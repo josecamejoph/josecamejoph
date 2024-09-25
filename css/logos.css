@@ -1,0 +1,72 @@
+@media (min-width: 768px) {
+    .logo-cabeza {
+        max-width: 138px;
+        padding-top: 7px;
+    }
+    
+    .texto-precio{
+        font-size: 30px; !important
+    }
+
+    .margen-titulo{
+        margin-right: 0px;
+    }
+}
+
+.texto-precio{
+    font-size: 30px; !important
+}
+
+.logo-cabeza {
+    max-width: 180px;
+}
+
+.invisible {
+    display: none;
+}
+
+.cabezal-fuente{
+    font-family: "Poppins", sans-serif;
+}
+
+.subtitulo{
+    font-weight: 600; !important
+}
+
+@media (min-width: 768px) { /* ajusta el tamaño según el ancho de la pantalla */
+    .tamano-24 {
+      font-size: 24px; /* tamaño para pantallas de PC */
+    }
+    .tamano-20 {
+      font-size: 19px; /* tamaño para pantallas de PC */
+    }
+}
+
+.fondo-negro{
+    background: rgb(19, 19, 19);
+}
+
+.borde-radio{
+    border-radius: 12px; !important
+}
+
+.portafolio-margen{
+    padding-top: 20px; !important
+}
+
+.cabezal-negro{
+    background: #ffffff; !important
+    /* background: #131313; !important */
+}
+
+.margen-titulo{
+    margin-right: 24px;
+}
+
+.negrita{
+    font-weight: 600;
+}
+
+.mayuscula {
+    text-transform: uppercase;
+}
